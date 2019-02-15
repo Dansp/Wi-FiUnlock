@@ -84,7 +84,7 @@ public class WriteWifi extends Activity {
     private void connectWifi() {
 
         String networkSSID = "Virus";
-        String networkPass = "AV9pNTXZ";
+        String networkPass = "KJNN8812sA";
 
         WifiConfiguration conf = new WifiConfiguration();
         conf.SSID = "\"" + networkSSID + "\"";   // Please note the quotes. String should contain ssid in quotes
